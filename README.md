@@ -5,7 +5,7 @@ After wondering where all the Automatic desks, at Autodesk were, I slightly auto
 https://twitter.com/galiat/status/847876743109255168
 
 ## Materials Used
-* the same kind of desk as in the Autodeks Boston office. 
+* the same kind of desk as in the Autodesk Boston office. 
   * (I have no idea the brand. I'll update this when I'm back in the office.)
 * particle photon with headers ($20) https://store.particle.io/
 * digital metal-gear micro servo (~$8)
