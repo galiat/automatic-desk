@@ -4,7 +4,7 @@
 After wondering where all the Automatic desks, at Autodesk were, I slightly automated my existing desk. 
 https://twitter.com/galiat/status/847876743109255168
 
-## Step 1: Materials Used
+## Materials Used
 * the same kind of desk as in the Autodeks Boston office. 
   * (I have no idea the brand. I'll update this when I'm back in the office.)
 * particle photon with headers ($20) https://store.particle.io/
