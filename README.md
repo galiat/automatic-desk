@@ -6,7 +6,8 @@ https://twitter.com/galiat/status/847876743109255168
 
 ## Materials Used
 * the same kind of desk as in the Autodesk Boston office. 
-  * (I have no idea the brand. I'll update this when I'm back in the office.)
+  * The unique thing about this desk is that it operates via paddle rather than up & down buttons
+  * I have no idea the brand. But if you would like to have such a desk, I suggest you apply to one of our [open job reqs](https://autodesk.taleo.net/careersection/adsk_gen/jobdetail.ftl?job=17WD22694).
 * particle photon with headers ($20) https://store.particle.io/
 * digital metal-gear micro servo (~$8)
 * servo horn (should come w/ servo)
