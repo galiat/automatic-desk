@@ -30,7 +30,7 @@ Servo wires always have 3 color-coded wires
 
 3) Load code to the photon - follow the documention https://docs.particle.io/guide/getting-started/build/photon/ up thru _Flashing Your First App_
 
-4) Create a new app & copy this code in. You might want to adjust the `delay` depending on your height.
+4) Create a new app & copy this code in.
 ```js
 Servo deskServo;
 
@@ -66,4 +66,7 @@ void loop(){}
 5) Test it out. Hit sit & stand on the app. The servo should react.
 
 ## Mount it to your desk
-1) I'll type this up later. But basiclly, I taped the servo horn to the paddle on the desk and then mounted whole thing to the side of the desk using commandstrips and plywood.
+1) Move your desk to the to the _sit_ position
+1) Tape the servo horn to the paddle. You may need to cut other spokes in the horn to make it fit. I taped mine so that the tip of the horn was at the tip of the paddle.
+1) I'll type this up later. But basiclly, I mounted whole thing to the side of the desk using commandstrips and scrapwood.
+1) calibrate: Hit stand. You might want to adjust the `delay` in the code depending on your height.
